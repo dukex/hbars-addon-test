@@ -1,4 +1,6 @@
 %h2#title
   Welcome to Ember.js
 
+{{show-text}}
+
 = outlet
